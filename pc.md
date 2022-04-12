@@ -5,6 +5,7 @@ Now that you are all set up, it's time to learn a little more about the tools of
 1. What is Git?
 Git is i have no clue.
 2. What is the difference between Git and GitHub?
+Trying to figure that out.
 3. Why do we create a branch?
 4. What is the purpose of a Pull Request?
 5. What is the command you can use to switch between branches? For example you are working on the FIRSTNAME-LASTNAME branch and you want to switch back to main.
